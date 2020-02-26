@@ -20,6 +20,7 @@ For more help with mainframe emulation and services, refer to the [Azure Mainfra
 
 ## Migrate mainframe closer to Azure
 
+- [Asysco AMT COBOL](https://www.asysco.com/cobol/) Enabling native, unchanged COBOL development (Unisys, IBM, Microfocus, HP, ..) whilst generating readable, maintainable C#
 - [Micro Focus Visual COBOL](https://www.microfocus.com/products/visual-cobol/) development and integration tools.
 - [Micro Focus PL/I](https://www.microfocus.com/campaign/download/pli-modernization/) legacy compiler for the .NET platform, supporting mainframe PL/I syntax, data types, and behavior.
 - [Micro Focus Enterprise Server](https://www.microfocus.com/products/enterprise-suite/enterprise-server/) mainframe integration platform.
@@ -34,6 +35,7 @@ For more help with mainframe emulation and services, refer to the [Azure Mainfra
 
 ## Deploy an emulation environment for online and batch processing
 
+- [Asysco AMT GO](https://www.asysco.com/amt-go/) together with AMT COBOL completely replicates mainframe workloads.
 - [Micro Focus Enterprise Server](https://www.microfocus.com/products/enterprise-suite/enterprise-server/) mainframe integration platform.
 - [NTT DATA Mainframe Rehosting Development Environment](https://us.nttdata.com/en/-/media/assets/white-paper/apps-mainframe-re-hosting-development-environment-whitepaper.pdf) native transaction processing environment.
 - [NTT DATA Batch Processing Environment](https://us.nttdata.com/en/-/media/assets/white-paper/apps-mainframe-re-hosting-development-environment-whitepaper.pdf) (BPE) including JCL transaction capabilities.
